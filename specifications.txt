@@ -1,0 +1,13 @@
+Assignment: School Payment Management System
+
+Objective:
+Design and implement a School Payment Management System in Java that allows administrators to manage student payments, track balances, and generate reports.
+
+Specifications:
+1. Student class: ID, Name, Balance
+2. Payment class: ID, StudentID, Date, Amount
+3. SchoolPaymentSystem class: addStudent, makePayment, getBalance, generateReport
+4. Use file/database for data persistence (file-based in this version)
+5. Error handling and input validation included
+
+
